@@ -48,5 +48,11 @@ Information about the available settings can be found in the [docs](http://djang
 Run with `python setup.py test`.
 To run with sqlite add `USE_SQLITE = True` in tests/local.py
 
+
+## Support
+
+Please [open an issue](https://github.com/relekang/django-nopassword/issues/new) for support.
+
+
 --------
 MIT © Rolf Erik Lekang
